@@ -1,7 +1,4 @@
----
-layout: default
-title: Jawad Samour
----
+
 
 # Hi, I'm Jawad 👋  
 Mechanical & Process Engineer • Data Analytics • Chemical Engineering @ McMaster • Finance Minor
