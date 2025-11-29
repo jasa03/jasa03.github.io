@@ -176,7 +176,7 @@ Python, SQL, VBA, HTML, MATLAB, Java, C++, Dart
 ---
 
 # 📄 Resume
-👉 **[Download Resume (PDF)](resume.pdf)**
+👉 **[Download Resume (PDF)](samourj_resume_UPDATEDFall25.pdf)**
 
 ---
 
